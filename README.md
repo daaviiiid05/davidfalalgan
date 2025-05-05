@@ -21,7 +21,8 @@ trabajoweb
   <main>
     <article>
       <h2>Arda Güler: El Joven Talento del Real Madrid</h2>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Arda_G%C3%BCler_2023.jpg/800px-Arda_G%C3%BCler_2023.jpg" alt="Arda Güler" />
+      <img src="![daaviiiid05](https://github.com/user-attachments/assets/31a094a2-53b2-4e5f-aec0-d3379d7147ff)
+" />
       <p>
         Arda Güler, nacido en Ankara en 2005, es uno de los talentos más prometedores del fútbol europeo. Su fichaje por el Real Madrid en 2023 causó revuelo en el mundo del deporte, y desde entonces ha dejado destellos de su gran calidad técnica y visión de juego.
       </p>
