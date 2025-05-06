@@ -1,3 +1,48 @@
+# Taller-github
+
+Este repositorio contiene información para alojar un proyecto de documentación en GitHub.
+
+---
+
+## Asunciones y pre-requisitos
+
+Para poder seguir este taller, deberás tener un conocimiento básico de informática y que estés acostumbrado/a a ejecutar comandos en una terminal. No es necesario que sepas programar. Para poder iniciarte en el mundo de Git y de GitHub tan solo necesitarás cumplir los siguientes requisitos:
+
+- Tener o crear una cuenta en [GitHub](https://github.com).
+- Tener acceso a Internet.
+- Tener instalado Git. Cualquier sistema operativo es válido. Descarga Git desde el siguiente [enlace](https://git-scm.com/downloads). Selecciona tu sistema operativo y haz click en **Download**. En la página oficial de Git encontrarás una [guía de inicio rápido](https://git-scm.com/docs/gittutorial).
+- Tener abierta una terminal desde la cual seguir los pasos que se indican en este tutorial.
+
+---
+
+## Información básica acerca de este taller
+
+- **Lidia La Cal Mantas**
+  - Twitter: ---------
+  - LinkedIn: [------------------](https://www.linkedin.com)
+
+---
+
+## Recursos adicionales
+
+- [Página de descargas de Git](https://git-scm.com/downloads)
+- [Documentación oficial de Git](https://git-scm.com/doc)
+- [Documentación oficial de GitHub](https://docs.github.com)
+- [Ayuda de GitHub](https://support.github.com/)
+- [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
+- [Docs like code, Anne Gentle](https://www.docslikecode.com/)
+- [The Vocabulary of GitHub for Documentation](https://www.writethedocs.org/guide/tools/github/)
+- [Documenting your projects on GitHub](https://guides.github.com/features/wikis/)
+- [Publish Your Project Documentation with GitHub Pages](https://pages.github.com/)
+- [Git and GitHub essentials for Docs](https://github.com/docslikecode/github-for-documentation)
+
+
+
+
+
+
+
+
 # Licencias de Software
 
 Este documento presenta información sobre las 10 licencias de software más utilizadas en la industria, junto con sus características principales.
@@ -65,7 +110,10 @@ Este documento presenta información sobre las 10 licencias de software más uti
 
 # DAVID FALAGÁN
 
-Desarrollador apasionado por la tecnología y la resolución de problemas. Experiencia en desarrollo web, administración de sistemas y automatización de procesos. Siempre en busca de nuevos retos y aprendizajes.
+![Foto de David Falagán](![ddd](https://github.com/user-attachments/assets/b4aff892-3f70-4f99-8061-eb6cbe8eef76)
+)
+
+Desarrollador de software orientado a resultados, con experiencia en desarrollo web, automatización de procesos y soporte IT. Apasionado por la tecnología, el aprendizaje continuo y la resolución de problemas complejos.
 
 📞 666 123 456  
 📧 david.falagan@email.com  
@@ -76,49 +124,45 @@ Desarrollador apasionado por la tecnología y la resolución de problemas. Exper
 
 ## EXPERIENCIA
 
-### Desarrollador Web - Freelance
-**Enero 2023 – Actualidad**  
-- Desarrollo de sitios web modernos con HTML, CSS, JavaScript y React.  
-- Implementación de backend con Node.js y bases de datos MongoDB.  
-- Optimización SEO y diseño responsive.
+### Desarrollador Web - Freelance  
+_Enero 2023 – Actualidad_  
+- Desarrollo de sitios y aplicaciones web responsivas usando React y Node.js.  
+- Integración de APIs y optimización de rendimiento.  
+- Despliegue en plataformas como Vercel y Netlify.
 
-### Técnico de Soporte IT – TechSolutions
-**Agosto 2021 – Diciembre 2022**  
-- Mantenimiento de redes y equipos informáticos.  
-- Soporte técnico presencial y remoto a usuarios.  
-- Automatización de tareas con scripts en Python.
+### Técnico de Soporte IT – TechSolutions  
+_Agosto 2021 – Diciembre 2022_  
+- Gestión de incidencias y mantenimiento de equipos.  
+- Automatización de tareas administrativas con Python.  
+- Administración básica de redes y servidores Linux.
 
 ---
 
 ## EDUCACIÓN
 
-### Grado en Ingeniería Informática  
-**Universidad Politécnica de Madrid**  
-2017 – 2021
+**Grado en Ingeniería Informática**  
+Universidad Politécnica de Madrid | 2017 – 2021
 
-### Curso de Desarrollo Web Full Stack  
-**OpenBootcamp / Platzi / Udemy**  
-2022
+**Curso Full Stack Developer**  
+OpenBootcamp, Udemy | 2022
 
 ---
 
 ## HABILIDADES
 
-- Programación: Python, JavaScript, Java, C++
-- Frameworks: React, Node.js, Express
-- Herramientas: Git, Docker, Linux
-- Bases de datos: MySQL, MongoDB
+- **Lenguajes:** Python, JavaScript, HTML/CSS, Java  
+- **Frameworks:** React, Express, Flask  
+- **Herramientas:** Git, Docker, Linux, VSCode  
+- **Bases de datos:** MySQL, MongoDB  
 
 ---
 
 ## IDIOMAS
 
-- Español: Nativo  
-- Inglés: B2 – Intermedio alto  
-- Francés: A2 – Básico  
+- **Español:** Nativo  
+- **Inglés:** B2  
+- **Francés:** A2  
 
 ---
 
 _Última actualización: Mayo 2025_
-
-
