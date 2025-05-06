@@ -61,3 +61,64 @@ Este documento presenta información sobre las 10 licencias de software más uti
 
 
 
+
+
+# DAVID FALAGÁN
+
+Desarrollador apasionado por la tecnología y la resolución de problemas. Experiencia en desarrollo web, administración de sistemas y automatización de procesos. Siempre en busca de nuevos retos y aprendizajes.
+
+📞 666 123 456  
+📧 david.falagan@email.com  
+📍 Dirección, Ciudad, País  
+[LinkedIn](https://www.linkedin.com/in/davidfalagan) | [GitHub](https://github.com/davidfalagan)
+
+---
+
+## EXPERIENCIA
+
+### Desarrollador Web - Freelance
+**Enero 2023 – Actualidad**  
+- Desarrollo de sitios web modernos con HTML, CSS, JavaScript y React.  
+- Implementación de backend con Node.js y bases de datos MongoDB.  
+- Optimización SEO y diseño responsive.
+
+### Técnico de Soporte IT – TechSolutions
+**Agosto 2021 – Diciembre 2022**  
+- Mantenimiento de redes y equipos informáticos.  
+- Soporte técnico presencial y remoto a usuarios.  
+- Automatización de tareas con scripts en Python.
+
+---
+
+## EDUCACIÓN
+
+### Grado en Ingeniería Informática  
+**Universidad Politécnica de Madrid**  
+2017 – 2021
+
+### Curso de Desarrollo Web Full Stack  
+**OpenBootcamp / Platzi / Udemy**  
+2022
+
+---
+
+## HABILIDADES
+
+- Programación: Python, JavaScript, Java, C++
+- Frameworks: React, Node.js, Express
+- Herramientas: Git, Docker, Linux
+- Bases de datos: MySQL, MongoDB
+
+---
+
+## IDIOMAS
+
+- Español: Nativo  
+- Inglés: B2 – Intermedio alto  
+- Francés: A2 – Básico  
+
+---
+
+_Última actualización: Mayo 2025_
+
+
