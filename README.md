@@ -1,42 +1,38 @@
-# davidfalalgan
-trabajoweb
-<!DOCTYPE html>
-<html lang="es">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Arda Güler - Blog de Fútbol</title>
-  <link rel="stylesheet" href="style.css" />
-</head>
-<body>
-  <header>
-    <h1>Blog de Fútbol</h1>
-    <nav>
-      <a href="#">Inicio</a>
-      <a href="#">Jugadores</a>
-      <a href="#">Noticias</a>
-    </nav>
-  </header>
+# Taller-github
 
-  <main>
-    <article>
-      <h2>Arda Güler: El Joven Talento del Real Madrid</h2>
-      <img src="![daaviiiid05](https://github.com/user-attachments/assets/31a094a2-53b2-4e5f-aec0-d3379d7147ff)
-" />
-      <p>
-        Arda Güler, nacido en Ankara en 2005, es uno de los talentos más prometedores del fútbol europeo. Su fichaje por el Real Madrid en 2023 causó revuelo en el mundo del deporte, y desde entonces ha dejado destellos de su gran calidad técnica y visión de juego.
-      </p>
-      <p>
-        Con apenas 18 años, ha demostrado una madurez sorprendente en el campo. Su capacidad para el regate, los pases filtrados y su potente disparo lo han convertido en una de las joyas a seguir en los próximos años.
-      </p>
-      <p>
-        ¿Será Güler el próximo gran ídolo merengue? El tiempo lo dirá, pero su talento es innegable.
-      </p>
-    </article>
-  </main>
+Este repositorio contiene información para alojar un proyecto de documentación en GitHub.
 
-  <footer>
-    <p>© 2025 Blog de Fútbol. Creado por [Tu Nombre]</p>
-  </footer>
-</body>
-</html>
+---
+
+## Asunciones y pre-requisitos
+
+Para poder seguir este taller, deberás tener un conocimiento básico de informática y que estés acostumbrado/a a ejecutar comandos en una terminal. No es necesario que sepas programar. Para poder iniciarte en el mundo de Git y de GitHub tan solo necesitarás cumplir los siguientes requisitos:
+
+- Tener o crear una cuenta en [GitHub](https://github.com).
+- Tener acceso a Internet.
+- Tener instalado Git. Cualquier sistema operativo es válido. Descarga Git desde el siguiente [enlace](https://git-scm.com/downloads). Selecciona tu sistema operativo y haz click en **Download**. En la página oficial de Git encontrarás una [guía de inicio rápido](https://git-scm.com/docs/gittutorial).
+- Tener abierta una terminal desde la cual seguir los pasos que se indican en este tutorial.
+
+---
+
+## Información básica acerca de este taller
+
+- **Lidia La Cal Mantas**
+  - Twitter: ---------
+  - LinkedIn: [------------------](https://www.linkedin.com)
+
+---
+
+## Recursos adicionales
+
+- [Página de descargas de Git](https://git-scm.com/downloads)
+- [Documentación oficial de Git](https://git-scm.com/doc)
+- [Documentación oficial de GitHub](https://docs.github.com)
+- [Ayuda de GitHub](https://support.github.com/)
+- [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
+- [Docs like code, Anne Gentle](https://www.docslikecode.com/)
+- [The Vocabulary of GitHub for Documentation](https://www.writethedocs.org/guide/tools/github/)
+- [Documenting your projects on GitHub](https://guides.github.com/features/wikis/)
+- [Publish Your Project Documentation with GitHub Pages](https://pages.github.com/)
+- [Git and GitHub essentials for Docs](https://github.com/docslikecode/github-for-documentation)
+
