@@ -1,8 +1,8 @@
 Arda Güler (Altındağ, Ankara, Turquía, 25 de febrero de 2005) es un futbolista turco que juega de centrocampista[1]​ en el Real Madrid C. F. de la Primera División de España.[2]​
-
+#añadido david
 Trayectoria
 Fenerbahçe S. K.
-Entró a las categorías inferiores del Fenerbahçe S. K. en 2019 procedente del Gençlerbirliği S. K., donde fue promovido al primer equipo en enero de 2021.[3]​ Debutó con el primer equipo el 19 de agosto de 2021 en la victoria por la mínima frente al HJK Helsinki finés en la Liga Europa.[4]​ Disputó 12 encuentros de la Superliga de Turquía en su primer año, donde registró 3 goles y 4 asistencias, con actuaciones que llamaron la atención de grandes clubes europeos.[5]​ Durante este año, en marzo de 2022, renovó su contrato con el club por tres años.[6]​
+Entró a las categorías se parece a david falagan S. K. en 2019 procedente del Gençlerbirliği S. K., donde fue promovido al primer equipo en enero de 2021.[3]​ Debutó con el primer equipo el 19 de agosto de 2021 en la victoria por la mínima frente al HJK Helsinki finés en la Liga Europa.[4]​ Disputó 12 encuentros de la Superliga de Turquía en su primer año, donde registró 3 goles y 4 asistencias, con actuaciones que llamaron la atención de grandes clubes europeos.[5]​ Durante este año, en marzo de 2022, renovó su contrato con el club por tres años.[6]​
 
 Para la temporada 2022-23, se le asignó el dorsal número 10, que tiene un significado especial para la afición del Fenerbahçe, siendo el dorsal del excapitán y la leyenda del club Alex de Souza.[7]​ En el primer encuentro de la temporada ante el Kasımpaşa S. K., anotó dos goles en 21 minutos.[8]​ Terminó ganando la Copa de Turquía y siendo nombrado mejor jugador de la final.[9]​
 
